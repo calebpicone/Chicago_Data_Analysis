@@ -1,7 +1,9 @@
 # Chicago_Data_Analysis
-This is a Jupyter Notebook featuring the final project for IBM's "Databases and SQL for Data Science with Python"  course on Coursera. The following describes the data and where to find the datasets used in the project:
+This is a Jupyter Notebook featuring the final project for IBM's "Databases and SQL for Data Science with Python"  course on Coursera. 
 
-##Understand the datasets
+The following description was featured in the project and shows where to find the datasets used in the project:
+
+## Understand the datasets
 To complete the assignment problems in this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
 
 Socioeconomic Indicators in Chicago
