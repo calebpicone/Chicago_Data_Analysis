@@ -1,4 +1,4 @@
-# Chicago_Data_Analysis
+# Chicago_Socioeconomic_and_Crime_Data_Analysis
 This is a Jupyter Notebook featuring the final project for IBM's "Databases and SQL for Data Science with Python"  course on Coursera. 
 
 The following description was featured in the project and shows where to find the datasets used in the project:
